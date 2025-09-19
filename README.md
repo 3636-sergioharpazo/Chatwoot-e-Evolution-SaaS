@@ -202,4 +202,3 @@ Este projeto é distribuído sob licença MIT — veja `LICENSE`.
 
 ---
 
-> Este README pode ser adaptado para incluir exemplos reais de `docker-compose.yml` e fluxos de configuração. Se quiser, posso gerar os arquivos prontos para deploy imediato.
